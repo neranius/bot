@@ -4,7 +4,7 @@ import sqlite3
 import datetime
 import time
 
-TOKEN = "8853154935:AAFevOkd-tN1N9oFjmvUSQAVLXvUGO7hcuY"  # ЗАМЕНИ
+TOKEN = "8853154935:AAFx0EFcrrUPAI0UWtlcxGgE0eCSSh3TyTA"  # ЗАМЕНИ
 
 # ===== РАЗДЕЛЕНИЕ РОЛЕЙ =====
 ADMIN_ID = 5457874590  # ID твоего ОСНОВНОГО аккаунта (ЗАМЕНИ)
